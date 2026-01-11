@@ -1,6 +1,6 @@
 # Bitcoin 15min Arbitrage Bot - Polymarket
 
-Professional arbitrage bot implementing **Jeremy Whittaker's strategy** for Bitcoin 15-minute markets on Polymarket.
+Professional arbitrage bot for Bitcoin 15-minute markets on Polymarket.
 
 > 🆕 **Enhanced Version**: This bot has been significantly improved with professional features including statistics tracking, risk management, enhanced logging, and configuration validation. See [CHANGELOG.md](CHANGELOG.md) for details. **100% backward compatible** - all new features are optional.
 
